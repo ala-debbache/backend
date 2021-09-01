@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Debbache Ala Eddine",
-	"description": "A project for learning backend wit nodejs"
+	"description": "A project for learning backend wit nodejs",
+	"keywords": [ "learning", "nodejs", "databases" ]
 }
