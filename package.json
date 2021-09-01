@@ -14,5 +14,6 @@
 	"author": "Debbache Ala Eddine",
 	"description": "A project for learning backend wit nodejs",
 	"keywords": [ "learning", "nodejs", "databases","freecodecamp" ],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
